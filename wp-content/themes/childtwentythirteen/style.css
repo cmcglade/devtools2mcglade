@@ -1,0 +1,31 @@
+/*
+Theme Name: Child of 2013
+Description: Child theme for devtools2 Class
+Author: Analytical Engine Interactive Inc.
+Version: 1.0
+Template: twentythirteen
+*/
+
+@import url('../twentythirteen/style.css');
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two:400,700|Open+Sans:400,400i,800');
+
+/* typography changes */
+
+/*font-family: 'Open Sans', sans-serif;*/
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lobster Two', cursive;
+}
+
+html, button, input, select, textarea {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.site-header {
+    background: url(http://localhost:8888/devtools2mcglade/wp-content/themes/childtwentythirteen/images/1_banner.png) no-repeat scroll top;
+}
+
+
+
+
+
